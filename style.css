@@ -1,0 +1,46 @@
+body{
+    padding: 20px 100px;
+    margin: 0px;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 100%;
+    height:auto ;
+    margin: 0 auto;
+}
+p{
+    text-align: justify;
+     font-size: 20px;
+}
+#color-switcher{
+    text-align: right;
+}
+.btn{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+    
+
+}
+#blue{
+        color: white;
+        background: blue;
+}
+#green{
+   color: white;
+   background: green;
+}
+#red{
+color: white;
+background: red;
+}
+#aqua{
+    color: white;
+    background: aqua;
+}
